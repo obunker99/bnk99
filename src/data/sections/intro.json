@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Brand",
+      "second": "Marketing"
+    },
+    "content": "Imagine sua marca com padrões visuais usados por grandes player do mercado.",
+    "image": "../img/slid/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Tráfego",
+      "second": "Pago"
+    },
+    "content": "Mais que fazer seu tráfego, é necessário mapear e projetar o que vai funcionar!",
+    "image": "/img/slid/1.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "Inteligência",
+      "second": "de Marketing"
+    },
+    "content": "Uma estratégia montada com perspectivas diferentes, olhares sem vícios e com foco no seu objetivo.",
+    "image": "/img/slid/1.jpg"
+  }
+]

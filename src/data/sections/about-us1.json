@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image1": "/img/intro/1.jpg",
+  "image2": "/img/intro/3.jpg",
+  "image3": "/img/intro/2.jpg",
+  "smallTitle": "Sobre a Bunker99",
+  "title": { "first": "Uma equipe apaixonada e", "second": "dedicada a levar a sua marca para voos mais altos. " },
+  "content": "Trazemos toda nossa expertise e ajudamos empresas como a sua a alcançarem resultados extraordinários.",
+  "features": [
+    {
+      "id": 1,
+      "icon": "diamond",
+      "name": { "first": "Brand", "second": "and Design" },
+      "wowDelay": ".3s"
+    },
+    {
+      "id": 2,
+      "icon": "map-2",
+      "name": { "first": "Inteligência de", "second": "Marketing" },
+      "wowDelay": ".5s"
+    },
+    {
+      "id": 3,
+      "icon": "cart",
+      "name": { "first": "Tráfego", "second": "Pago" },
+      "wowDelay": ".8s"
+    }
+  ]
+}
